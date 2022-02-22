@@ -1,0 +1,26 @@
+*{
+  font-family: sans-serif;
+}
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+path:hover {
+  opacity: 0.5;
+}
+
+path{
+  stroke: white;
+  fill: DodgerBlue;
+}
+
+svg {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
