@@ -24,3 +24,9 @@ svg {
   display: flex;
   justify-content: center;
 }
+
+#tablesContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
