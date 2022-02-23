@@ -30,3 +30,8 @@ svg {
   flex-direction: row;
   justify-content: center;
 }
+
+#buttonContainer{
+  display: flex;
+  justify-content: center;
+}
